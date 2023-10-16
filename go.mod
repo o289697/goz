@@ -1,4 +1,4 @@
-module github.com/idoubi/goz
+module github.com/o289697/goz
 
 go 1.13
 
