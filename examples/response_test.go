@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/idoubi/goz"
+	"github.com/o289697/goz"
 )
 
 func ExampleResponse_GetBody() {
